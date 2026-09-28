@@ -11,8 +11,6 @@ PoEM 2026 - The 19th IFIP WG 8.1 Working Conference on the Practice of Enterpris
 This repository contains supplementary materials for the paper
 "An Enterprise Model for a Configurable Tool for Teaching Requirements Engineering."
 
-The supplementary materials correspond to References 25–28 and 30.
-
 ## Files
 
 - `Supplementary_Materials.pdf` - supplementary models
